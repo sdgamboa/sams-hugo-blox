@@ -1,3 +1,3 @@
-module github.com/hugo-blox/sams-hugo-blox
+module github.com/sdgamboa/sams-hugo-blox
 
 go 1.19
